@@ -10,7 +10,7 @@ function obtenerMayor(x, y) {
   }else if (y > x){
     return y;
   }else
-    return x;
+    return x; 
 }
 
 function saludo(idioma) {
